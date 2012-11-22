@@ -1,5 +1,7 @@
 MIUI theme / theme-collection, mashup.
-Contains 3000+ icons
+Contains 1400+ icons
 
 All credit to original icon designers.
 100+ icons made by me, and counting...
+
+To install, just git clone and run: adb push rolle.mtz /mnt/sdcard/MIUI/theme/rolle.mtz
